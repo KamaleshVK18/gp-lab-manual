@@ -11,7 +11,6 @@ To replace the default third person character mesh with a custom skeletal mesh a
 ![image](https://github.com/user-attachments/assets/c1e941ba-856c-4aea-b7e0-a4b781b64ee5)
 
 ## RESULT
-```
 The default Third Person Character was successfully replaced with a custom skeletal mesh, and animations were applied using an Animation Blueprint. The character now visually reflects new assets and performs the desired movement animations.
-```
+
 
